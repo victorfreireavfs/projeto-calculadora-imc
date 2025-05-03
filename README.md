@@ -38,12 +38,4 @@ A classificação é baseada nos seguintes critérios:
 
 ## 📸 Preview
 
-![calculadora imc](preview.gif)
-
-> *Adicione aqui um gif ou print da aplicação em funcionamento, caso queira.*
-
-## 📁 Como usar
-
-1. Clone o repositório:
-```bash
-git clone https://github.com/victorfreireavfs/projeto-calculadora-imc
+![calculadora imc](cal_imc/assets/img/preview.png)
