@@ -46,4 +46,4 @@ A classificação é baseada nos seguintes critérios:
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/victorfreireavfs/projeto-calculadora-imc.git
+git clone https://github.com/victorfreireavfs/projeto-calculadora-imc
