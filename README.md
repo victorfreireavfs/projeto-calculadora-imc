@@ -38,7 +38,7 @@ A classificação é baseada nos seguintes critérios:
 
 ## 📸 Preview
 
-<p align="center">
-  <img src="cal_imc/assets/img/preview.png" width="200" alt="Prévia do Projeto">
+<p>
+  <img src="cal_imc/assets/img/preview.png" width="400" alt="Prévia do Projeto">
 </p>
 
