@@ -14,8 +14,8 @@ body {
   padding: 0;
   background: var(--primary-color);
   font-family: 'Open sans', sans-serif;
-  font-size: 1.3em;
-  line-height: 1.5em;
+  font-size: 1.1em;
+  line-height: 1.2em;
   .paragrafo-resultado { color: green; font-weight: bold; }
   .mensagem-erro { color: red; font-weight: bold; }
 }
